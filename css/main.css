@@ -143,11 +143,11 @@ font-size: 13px;
 font-size: 1.3rem;
 text-align: center;
 }
-
+/*<====================== li of first footer ============>*/
 #footer-list{
   padding: 10px;
 }
-
+/*<================ second footer ====================>*/
 .footerGrey {
         background-color: #474747 ;
         color: white;
